@@ -1,0 +1,5 @@
+﻿  complexcalc.c
+C:\Users\eberechukwu\source\repos\complexcalc\complexcalc\complexcalc.c(57,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\eberechukwu\source\repos\complexcalc\complexcalc\complexcalc.c(106,38): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\eberechukwu\source\repos\complexcalc\complexcalc\complexcalc.c(161): warning C4716: 'complex_calc': must return a value
+  complexcalc.vcxproj -> C:\Users\eberechukwu\source\repos\complexcalc\Debug\complexcalc.exe

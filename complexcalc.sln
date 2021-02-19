@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complexcalc", "complexcalc\complexcalc.vcxproj", "{F826F721-7FAD-4124-8109-F57A7CF657CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Debug|x64.ActiveCfg = Debug|x64
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Debug|x64.Build.0 = Debug|x64
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Debug|x86.Build.0 = Debug|Win32
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Release|x64.ActiveCfg = Release|x64
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Release|x64.Build.0 = Release|x64
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Release|x86.ActiveCfg = Release|Win32
+		{F826F721-7FAD-4124-8109-F57A7CF657CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BCC4B1-622D-4AE4-8CFC-A14E30F20E3F}
+	EndGlobalSection
+EndGlobal
